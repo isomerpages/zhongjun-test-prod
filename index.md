@@ -23,7 +23,7 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Title
+      title: Title long title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
