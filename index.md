@@ -53,7 +53,7 @@ sections:
             pm). Please provide a written letter of authorisation if a proxy is
             collecting this on your behalf.
   - infobar:
-      title: Title long title
+      title: Title long long title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
