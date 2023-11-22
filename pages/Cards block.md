@@ -20,6 +20,7 @@ This is a test page.
       <!-- <div class="isomer-card-description">This is body text for your card. Describe your card.</div> -->
       <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
     </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
   </div>
 
   <div class="isomer-card">
@@ -59,6 +60,38 @@ This is a test page.
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
       <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
     </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
+  </div>
+
+  <div class="isomer-card">
+    <div class="isomer-card-image">
+      <div class="isomer-image-wrapper">
+        <img src="https://placehold.co/6000x400">
+      </div>
+    </div>
+    <!-- <div class="isomer-card-body">
+      <div class="isomer-card-title">This is a title for your card</div>
+      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
+    </div> -->
+  </div>
+</div>
+
+### 4 cards (2 rows)
+
+<div class="isomer-card-grid">
+  <div class="isomer-card">
+    <!-- <div class="isomer-card-image">
+      <div class="isomer-image-wrapper">
+        <img src="https://placehold.co/6000x400">
+      </div>
+    </div> -->
+    <div class="isomer-card-body">
+      <div class="isomer-card-title">This is a title for your card</div>
+      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
+    </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
   </div>
 
   <div class="isomer-card">
@@ -68,33 +101,63 @@ This is a test page.
       </div>
     </div>
     <div class="isomer-card-body">
-      <!-- <div class="isomer-card-title">This is a title for your card</div>
+      <div class="isomer-card-title">This is a title for your card</div>
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div> -->
+      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
     </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
+  </div>
+
+  <div class="isomer-card">
+    <div class="isomer-card-image">
+      <div class="isomer-image-wrapper">
+        <img src="https://placehold.co/6000x400">
+      </div>
+    </div>
+    <div class="isomer-card-body">
+      <div class="isomer-card-title">This is a title for your card</div>
+      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
+    </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
+  </div>
+
+  <div class="isomer-card">
+    <!-- <div class="isomer-card-image">
+      <div class="isomer-image-wrapper">
+        <img src="https://placehold.co/6000x400">
+      </div>
+    </div> -->
+    <div class="isomer-card-body">
+      <div class="isomer-card-title">This is a title for your card</div>
+      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
+    </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
   </div>
 </div>
 
-### 4 cards (2 rows)
+## 2 cards (1 row, stretched)
 
 <div class="isomer-card-grid">
   <div class="isomer-card">
-    <div class="isomer-card-image">
+    <!-- <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/4000x400">
+        <img src="https://placehold.co/6000x400">
       </div>
-    </div>
+    </div> -->
     <div class="isomer-card-body">
       <div class="isomer-card-title">This is a title for your card</div>
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
       <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
     </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
   </div>
 
-  <div class="isomer-card">
+  <div href="https://www.open.gov.sg" class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/600x400">
+        <img src="https://placehold.co/6000x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -102,62 +165,7 @@ This is a test page.
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
       <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
     </div>
-  </div>
-
-  <div class="isomer-card">
-    <div class="isomer-card-image">
-      <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/60x400">
-      </div>
-    </div>
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">This is a title for your card</div>
-      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
-    </div>
-  </div>
-
-  <div class="isomer-card">
-    <div class="isomer-card-image">
-      <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/600x400">
-      </div>
-    </div>
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">This is a title for your card</div>
-      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
-    </div>
-  </div>
-</div>
-
-### 2 cards (1 row, stretched)
-
-<div class="isomer-card-grid">
-  <div class="isomer-card">
-    <div class="isomer-card-image">
-      <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/600x400">
-      </div>
-    </div>
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">This is a title for your card</div>
-      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
-    </div>
-  </div>
-
-  <div class="isomer-card">
-    <div class="isomer-card-image">
-      <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/600x400">
-      </div>
-    </div>
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">This is a title for your card</div>
-      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
-    </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
   </div>
 </div>
 
@@ -167,7 +175,7 @@ This is a test page.
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/600x400">
+        <img src="https://placehold.co/6000x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -175,5 +183,6 @@ This is a test page.
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
       <div class="isomer-card-link"><a href="https://www.google.com">This is a link for your card</a></div>
     </div>
+    <a href="https://www.google.com" class="isomer-card-cardlink"></a>
   </div>
 </div>
