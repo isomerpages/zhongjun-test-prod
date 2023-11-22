@@ -81,7 +81,7 @@ This is a test page.
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
+        <img src="https://placehold.co/4000x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -94,7 +94,7 @@ This is a test page.
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
+        <img src="https://placehold.co/600x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -107,7 +107,7 @@ This is a test page.
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
+        <img src="https://placehold.co/60x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -120,7 +120,7 @@ This is a test page.
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
+        <img src="https://placehold.co/600x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -131,13 +131,13 @@ This is a test page.
   </div>
 </div>
 
-## 2 cards (1 row, stretched)
+### 2 cards (1 row, stretched)
 
 <div class="isomer-card-grid">
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
+        <img src="https://placehold.co/600x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -150,7 +150,7 @@ This is a test page.
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
+        <img src="https://placehold.co/600x400">
       </div>
     </div>
     <div class="isomer-card-body">
@@ -167,7 +167,7 @@ This is a test page.
   <div class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
+        <img src="https://placehold.co/600x400">
       </div>
     </div>
     <div class="isomer-card-body">
