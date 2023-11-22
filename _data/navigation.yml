@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Card Block
+    url: /cards
   - title: Example Page
     url: /example-page/
   - title: Example Folder
