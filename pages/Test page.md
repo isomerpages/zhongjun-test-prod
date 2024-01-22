@@ -4,4 +4,4 @@ permalink: /test/
 description: ""
 variant: markdown
 ---
-Reset
+Reset page!
