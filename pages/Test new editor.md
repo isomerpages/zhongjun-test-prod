@@ -4,4 +4,4 @@ permalink: /new-editor/
 variant: tiptap
 description: ""
 ---
-<p>Testing!!!!!</p>
+<p>This is a test.</p>
