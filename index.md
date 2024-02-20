@@ -14,8 +14,8 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+          description: ""
+          url: ""
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
