@@ -10,11 +10,8 @@ sections:
       title: Hello
       subtitle: This is a test site
       background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: ""
-            url: ""
+      button: Button
+      url: /about
   - announcements:
       title: Announcements
       subtitle: Table subtitle
