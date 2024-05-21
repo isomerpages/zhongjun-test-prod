@@ -1,0 +1,4 @@
+collections:
+  prod-only-pls:
+    output: true
+    order: []
