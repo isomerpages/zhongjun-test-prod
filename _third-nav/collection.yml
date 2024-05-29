@@ -1,0 +1,4 @@
+collections:
+  third-nav:
+    output: true
+    order: []

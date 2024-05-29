@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Card Block
+    url: /cards
+  - title: Nested Page Card
+    url: /third-nav/cards/
   - title: Example Page
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: Contact Us
+    url: /contact-us/
