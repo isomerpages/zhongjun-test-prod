@@ -1,4 +1,5 @@
 collections:
   third-nav:
     output: true
-    order: []
+    order:
+      - Oil Painting @ Marsiling CC.md
