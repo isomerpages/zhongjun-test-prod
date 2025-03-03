@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="isomer-card-grid">
-  <a href="https://www.google.com" class="isomer-card">
+  <a href="https://www.google.com.sg" class="isomer-card">
     <div class="isomer-card-image">
       <div class="isomer-image-wrapper">
         <img src="https://placehold.co/6000x400">
@@ -62,7 +62,7 @@ description: ""
     </div>
     <div class="isomer-card-body">
       <div class="isomer-card-title">This is a title for your card</div>
-      <!-- <div class="isomer-card-description">This is body text for your card. Describe your card.</div> -->
+      
       <div class="isomer-card-link">
         This is a link for your card
       </div>
@@ -78,9 +78,7 @@ description: ""
     <div class="isomer-card-body">
       <div class="isomer-card-title">This is a title for your card</div>
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <!-- <div class="isomer-card-link">
-        This is a link for your card
-      </div> -->
+      
     </div>
   </div>
 
@@ -92,10 +90,7 @@ description: ""
     </div>
     <div class="isomer-card-body">
       <div class="isomer-card-title">This is a title for your card</div>
-      <!-- <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <div class="isomer-card-link">
-        This is a link for your card
-      </div> -->
+      
     </div>
   </div>
 
@@ -120,13 +115,7 @@ description: ""
         <img src="https://placehold.co/6000x400">
       </div>
     </div>
-    <!-- <div class="isomer-card-body">
-      <div class="isomer-card-title">This is a title for your card</div>
-      <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-      <div class="isomer-card-link">
-        This is a link for your card
-      </div>
-    </div> -->
+    
   </div>
 </div>
 
@@ -134,11 +123,7 @@ description: ""
 
 <div class="isomer-card-grid">
   <a href="https://www.google.com" class="isomer-card">
-    <!-- <div class="isomer-card-image">
-      <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
-      </div>
-    </div> -->
+    
     <div class="isomer-card-body">
       <div class="isomer-card-title">This is a title for your card</div>
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
@@ -179,11 +164,7 @@ description: ""
   </a>
 
   <a href="https://www.google.com" class="isomer-card">
-    <!-- <div class="isomer-card-image">
-      <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
-      </div>
-    </div> -->
+    
     <div class="isomer-card-body">
       <div class="isomer-card-title">This is a title for your card</div>
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
@@ -200,11 +181,7 @@ description: ""
 
 <div class="isomer-card-grid">
   <a href="https://www.google.com" class="isomer-card">
-    <!-- <div class="isomer-card-image">
-      <div class="isomer-image-wrapper">
-        <img src="https://placehold.co/6000x400">
-      </div>
-    </div> -->
+    
     <div class="isomer-card-body">
       <div class="isomer-card-title">This is a title for your card</div>
       <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
