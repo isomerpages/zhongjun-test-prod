@@ -1,4 +1,6 @@
 collections:
   third-nav:
     output: true
-    order: []
+    order:
+      - General/Oil Painting @ Marsiling CC.md
+      - General/.keep
