@@ -44,4 +44,9 @@ sections:
           announcement: ""
           link_text: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
           link_url: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
+        - title: New Announcement
+          date: 18 November 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
