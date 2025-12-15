@@ -12,6 +12,10 @@ sections:
       background: /images/hero-banner.png
       button: Button
       url: /about
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: /example-folder/folder-page/
   - infobar:
       title: Title long long title
       subtitle: Subtitle
@@ -34,19 +38,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 18 November 2025
-          announcement: ""
-          link_text: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
-          link_url: https://www.sgs.moe.edu.sg/students/permalink/2026-sec2-sec5-books-uniform-sales/
-        - title: New Announcement
-          date: 18 November 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
