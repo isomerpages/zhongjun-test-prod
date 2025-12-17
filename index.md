@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hello
       subtitle: This is a test site
-      background: /images/hero-banner.png
+      background: /images/RV__2_.png
       button: Button
       url: /about
       key_highlights:
