@@ -39,7 +39,7 @@ sections:
           linktext: Learn more
           url: ""
   - resources:
-      title: Resources
+      title: Media centre
       subtitle: Add a preview and link to your Resource Room
       id: resources
       button: View more
