@@ -4,8 +4,6 @@ permalink: /test/
 description: ""
 variant: markdown
 ---
-  
-
 <style>
 
   
@@ -880,7 +878,8 @@ background-size: contain;
 
 }
 
+
+</style>
   
   
 
-</style>
