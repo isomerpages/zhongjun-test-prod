@@ -905,6 +905,8 @@ background-size: contain;
   <p style="font-size: 20px; font-weight: bold; text-align: left; color: #F96B8D; margin: 0px 0px;"><b>#KopiTalk with North West FitnessX Club Instructors </b>
   </p> 
 </div>
-
+<div class="" style="max-width: 100%; padding: 25px 0px 0px;">
+  <img style="width: 100%;" class="" src="/images/Cohesion/Jan%202026/zumba_01.jpg">
+</div>
 
 </article>
