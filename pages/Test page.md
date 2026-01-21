@@ -889,6 +889,11 @@ background-size: contain;
   </a>
 </div>
 
+	
+<div style="width: 100%;">
+  <img style="width: 100%;" src="https://northwest.cdc.gov.sg/images/Cohesion/January%202024/healthy_communities.png">
+  <img style="width: 100%;" src="/images/Cohesion/Jan%202026/title_meet_fitnessx.jpg">
+</div>
 
 
 </article>
