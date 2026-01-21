@@ -4,7 +4,7 @@ permalink: /test/
 description: ""
 variant: markdown
 ---
-#### Memories and history are viewed differently. Find out how the Singapore Memory Project captures such memories and provide us with another way of looking at Singapore aside from linear historicity.
+#### Memories and historys are viewed differently. Find out how the Singapore Memory Project captures such memories and provide us with another way of looking at Singapore aside from linear historicity.
 
 <div style="background-color: white;">
 <img src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Ronald%20Simon1.jpg" style="width: 80%;">Mr Roland Vivian Simon, born in 1932, was a telephone operator at Sembawang Naval Base during the Japanese Occupation. His story is one of many featured in "Hands".	</div>
