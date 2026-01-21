@@ -894,6 +894,11 @@ background-size: contain;
   <img style="width: 100%;" src="https://northwest.cdc.gov.sg/images/Cohesion/January%202024/healthy_communities.png">
   <img style="width: 100%;" src="/images/Cohesion/Jan%202026/title_meet_fitnessx.jpg">
 </div>
+	
+	
+<div style="padding: 10px 0px 15px;">
+<p style="font-size: 16px; line-height: 26px; text-align: justify;">Start the year strong! Challenge yourself or try something fresh, and be inspired by the passionate instructors of our North West FitnessX Club classes. Take your pick from Zumba and K-pop Fitness to Fight-Do and High Intensity Interval Training (HIIT) and start your journey towards a stronger and fitter you!</p>
+</div>
 
 
 </article>
