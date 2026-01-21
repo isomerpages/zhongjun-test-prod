@@ -899,6 +899,12 @@ background-size: contain;
 <div style="padding: 10px 0px 15px;">
 <p style="font-size: 16px; line-height: 26px; text-align: justify;">Start the year strong! Challenge yourself or try something fresh, and be inspired by the passionate instructors of our North West FitnessX Club classes. Take your pick from Zumba and K-pop Fitness to Fight-Do and High Intensity Interval Training (HIIT) and start your journey towards a stronger and fitter you!</p>
 </div>
+	
+	
+<div style="padding: 10px 0px 0px;">
+  <p style="font-size: 20px; font-weight: bold; text-align: left; color: #F96B8D; margin: 0px 0px;"><b>#KopiTalk with North West FitnessX Club Instructors </b>
+  </p> 
+</div>
 
 
 </article>
