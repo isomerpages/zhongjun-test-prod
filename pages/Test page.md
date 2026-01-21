@@ -877,9 +877,18 @@ background-repeat: no-repeat;
 background-size: contain;
 
 }
+	
+	</style>
 
 
-</style>
-  
-  
+<article style="max-width: 800px; width: 100%; margin: auto;">
 
+<div style="width: 100%;">
+  <a href="https://northwest.cdc.gov.sg/cohesion/january-2026/at-a-glance/">
+    <img style="width: 100%; max-width: 100px; position: relative; float: left;" alt="North West Cohesion" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+  </a>
+</div>
+
+
+
+</article>
