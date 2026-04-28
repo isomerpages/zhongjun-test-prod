@@ -1,0 +1,6 @@
+collections:
+  third-nav:
+    output: true
+    order:
+      - General/Oil Painting @ Marsiling CC.md
+      - General/.keep

@@ -1,0 +1,8 @@
+collections:
+  example-folder:
+    output: true
+    order:
+      - TS test.md
+      - example-subfolder/.keep
+      - example-subfolder/subfolder-page.md
+      - folder-page.md
