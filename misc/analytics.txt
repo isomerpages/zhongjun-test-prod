@@ -1,0 +1,4 @@
+---
+permalink: /analytics.txt
+---
+This is a test file
